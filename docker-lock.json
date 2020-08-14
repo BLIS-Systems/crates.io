@@ -19,7 +19,7 @@
 			{
 				"name": "postgres",
 				"tag": "9.6",
-				"digest": "2f75145ad0773308263d33b60ed811c0640a3497c01187059235a9ba46ccdf15",
+				"digest": "0951f973bb3a19cc9588f2edd715d2f7b832ef9786291debc45a9eec024e2bda",
 				"serviceName": "postgres",
 				"dockerfile": ""
 			}
