@@ -4,7 +4,7 @@
 			{
 				"name": "rust",
 				"tag": "latest",
-				"digest": "9ac03354f65435aa3c5effb5b6c344395b0bb870a38b27ccd0ab259f3d9a3ed8",
+				"digest": "584228b70ae197c4f7e275e86aa008ebe2477ab9f11cf9866aff7ac37cd76c9c",
 				"dockerfile": "backend.Dockerfile",
 				"service": "backend"
 			},
