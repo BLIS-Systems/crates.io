@@ -4,21 +4,21 @@
 			{
 				"name": "rust",
 				"tag": "latest",
-				"digest": "",
+				"digest": "cf80a77b3c4b1717558c1757bfdfb8ac347cd6da2e9ecaeedc94f30dd23bf31f",
 				"dockerfile": "backend.Dockerfile",
 				"service": "backend"
 			},
 			{
 				"name": "node",
 				"tag": "12.9-alpine",
-				"digest": "",
+				"digest": "3f9f6d4cceb65e9dbc8a8f9549c66b44e07d092353c07e64fef7da51c8ed06f7",
 				"dockerfile": "frontend.Dockerfile",
 				"service": "frontend"
 			},
 			{
 				"name": "postgres",
 				"tag": "9.6",
-				"digest": "",
+				"digest": "67bf1f5a749c14dd3b4c2a6332efe32a38ff78bfb3ad374c4fbe7abfa04fcf50",
 				"service": "postgres"
 			}
 		]
