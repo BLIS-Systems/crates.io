@@ -1,0 +1,26 @@
+{
+	"composefiles": {
+		"docker-compose.yml": [
+			{
+				"name": "rust",
+				"tag": "latest",
+				"digest": "ca16e78d28eea33c127335e3eb5bfdbe834565c8bd640268656c8b15caa12375",
+				"dockerfile": "backend.Dockerfile",
+				"service": "backend"
+			},
+			{
+				"name": "node",
+				"tag": "12.9-alpine",
+				"digest": "3f9f6d4cceb65e9dbc8a8f9549c66b44e07d092353c07e64fef7da51c8ed06f7",
+				"dockerfile": "frontend.Dockerfile",
+				"service": "frontend"
+			},
+			{
+				"name": "postgres",
+				"tag": "9.6",
+				"digest": "bd690b41dc7eb3f60daed615ad155ebb3879cb5375df41f53743c193fdb6799b",
+				"service": "postgres"
+			}
+		]
+	}
+}
