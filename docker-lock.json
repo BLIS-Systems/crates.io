@@ -18,7 +18,7 @@
 			{
 				"name": "postgres",
 				"tag": "9.6",
-				"digest": "ed9dc9b796129c750cc2d463ac2526b2fbbde436db12747a5c30324ee02e5fb8",
+				"digest": "",
 				"service": "postgres"
 			}
 		]
