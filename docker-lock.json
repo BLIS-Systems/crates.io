@@ -4,7 +4,7 @@
 			{
 				"name": "rust",
 				"tag": "latest",
-				"digest": "1c0e135c2e019953e8e96e9ce09a3df1f3e4fad656d8dbde281e809e533b8fde",
+				"digest": "0a7f27c36116251b5ac82dd6134fa816ba75c20cfc7b707bb01b1e6f407bcf16",
 				"dockerfile": "backend.Dockerfile",
 				"service": "backend"
 			},
@@ -18,7 +18,7 @@
 			{
 				"name": "postgres",
 				"tag": "9.6",
-				"digest": "f69964bc6c6a84e65d1274cf11ee07736d8412f78675a07e3b18eab23a05bfc3",
+				"digest": "b990403c17778a7156b57e8ab06a8b9d6fcf77993d06f87bfacc55a348395c4f",
 				"service": "postgres"
 			}
 		]
